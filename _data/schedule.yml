@@ -1,0 +1,20 @@
+- day: Monday
+  schedule: "8:30am - 5:00pm"
+
+- day: Tuesday 
+  schedule: "8:30am - 5:00pm"
+
+- day: Wednesday
+  schedule: "8:30am - 5:00pm"
+
+- day: Thursday 
+  schedule: "8:30am - 5:00pm"
+
+- day: Friday 
+  schedule: "8:30am - 5:00pm"
+
+- day: Saturday 
+  schedule: "8:30am - 5:00pm"
+
+- day: Sunday
+  schedule: "Closed"
